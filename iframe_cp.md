@@ -1,4 +1,10 @@
-# iframe-cp
+---
+title: 跳转别人的页面，怎么加个返回呢
+tags: vue
+categories: vue
+theme: vue-pro
+highlight:
+---
 
 有时候需要跳转别人的页面，但是需要在别人的页面，加个返回之类等，我们需要的逻辑。
 此时，`iframe`就是个不错的解决方案
