@@ -16,7 +16,7 @@ npm i iframe-cp
 import IframeCp from 'iframe-cp';
 
 <iframe-cp url="https://www.pudn.com/news/627e169c9b6e2b6d5541c74a.html">
-  写返回键之类巴拉巴拉的，原组件
+  写返回键之类巴拉巴拉的
 </iframe-cp>;
 ```
 
@@ -28,12 +28,7 @@ import IframeCp from 'iframe-cp';
 <template>
   <iframe-cp url="https://www.pudn.com/news/627e169c9b6e2b6d5541c74a.html">
     <div class="header">
-      <img
-        width="24"
-        src="https://blog-huahua.oss-cn-beijing.aliyuncs.com/blog/code/back.png"
-        alt=""
-        class="icon"
-      />
+      <img width="24" src="https://blog-huahua.oss-cn-beijing.aliyuncs.com/blog/code/back.png" alt="" class="icon" />
     </div>
   </iframe-cp>
 </template>
