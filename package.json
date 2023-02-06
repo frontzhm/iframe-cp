@@ -2,7 +2,7 @@
   "name": "iframe-cp",
   "version": "1.0.0",
   "description": "",
-
+  "repository": "https://github.com/frontzhm/iframe-cp",
   "main": "dist/iframe-cp.ssr.js",
   "browser": "dist/iframe-cp.esm.js",
   "module": "dist/iframe-cp.esm.js",
